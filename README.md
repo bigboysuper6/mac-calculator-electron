@@ -12,10 +12,10 @@ preview:
   ```
 npm install
 npm start 
-```
+  ```
 
 + if want build electron app
   ```
 node build.js
-```
+  ```
 
