@@ -9,13 +9,15 @@ preview:
 + if want preview in browser,use live-server in vscode
 
 + start with electron
+
   ```
-npm install
-npm start 
+  npm install
+  npm start 
   ```
 
 + if want build electron app
+
   ```
-node build.js
+  node build.js
   ```
 
