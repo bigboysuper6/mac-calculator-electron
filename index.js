@@ -3,7 +3,9 @@ const display = document.querySelector("#result");
 
 let oldValue = null;
 let oprator = null;
+//when click number, should the display be concat,like 1 => 12 => 125 or 1 => 2 => 3
 let concat = false;
+// has result been calculated
 let calc_result = false;
 
 buttons.forEach((button) => {
